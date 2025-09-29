@@ -14,6 +14,16 @@ JAXB & JAXP API (XML Object mappings)
 JSONP API - JSON onject mappings
 JAX- WS API - SOAP Service Implementation
 JAX- RS API - REST Service Implementation
-
-Deployment - Java EE - Weblojic, Tomcat , websphere
-
+6. Deployment - Java EE hosting - WebLojic, Tomcat , Websphere
+Weblogic: 
+Hosts Java EE Applications
+Provides EJB and Web Containers
+Provides Security, Concurrency , Transaction Management and so on.
+7. Java in Oracle Cloud  - OCI supports multiple things
+     1. Developer Tools
+     2. Different languages
+     3. Cloud Naive
+     4. Data management
+     5. Visual Builders
+     6. VM, Storage, Networking & Security
+   
