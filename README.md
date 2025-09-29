@@ -1,7 +1,7 @@
 # Java-Foundations
 Java Foundations is a beginner-friendly repository to learn core Java concepts step by step. It covers basics, control flow, OOP, collections, exception handling, and modern features with clear examples and exercises to build a strong programming foundation.
 
-#Introduction
+**#Introduction**
 # Objectives
 1. Explain Java Origin and Ecosystem - Write once and read everywhere
 2. Describe the java language - Class, Package & Module
